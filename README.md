@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://h5-static.aoneroom.com/ssrStatic/mbOfficial/public/_nuxt/web-logo.apJjVir2.svg" alt="LOGO" width="200"/>
+  <img src="./static/icon.svg" alt="Movies Treasure API Pro logo" width="220"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/faisaljs/Moviebox-API"><img alt="GitHub Repo" src="https://img.shields.io/badge/github-faisaljs%2FMoviebox--API-ff3d71?style=flat-square&logo=github"></a>
-  <a href="https://github.com/faisaljs"><img alt="Author" src="https://img.shields.io/badge/author-Rabbani-3366ff?style=flat-square"></a>
+  <a href="https://github.com/Rabbani78689/Movies-Treasure-Pro"><img alt="GitHub Repo" src="https://img.shields.io/badge/github-Rabbani78689%2FMovies--Treasure--Pro-ff3d71?style=flat-square&logo=github"></a>
+  <a href="https://github.com/Rabbani78689"><img alt="Author" src="https://img.shields.io/badge/author-Rabbani-3366ff?style=flat-square"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-00c853?style=flat-square"></a>
-  <a href="https://github.com/faisaljs/Moviebox-API/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/faisaljs/Moviebox-API?style=flat-square&color=ffcc00"></a>
+  <a href="https://github.com/Rabbani78689/Movies-Treasure-Pro/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rabbani78689/Movies-Treasure-Pro?style=flat-square&color=ffcc00"></a>
 </p>
 
 # Movies Treasure API Pro
@@ -47,8 +47,8 @@ Built for people who want to wire moviebox into their own apps, scripts, bots, d
 ## Quickstart
 
 ```bash
-git clone https://github.com/faisaljs/Moviebox-API
-cd Moviebox-API
+git clone https://github.com/Rabbani78689/Movies-Treasure-Pro.git
+cd Movies-Treasure-Pro
 pip install -r requirements.txt
 python main.py
 ```
@@ -85,7 +85,7 @@ a fresh checkout before starting the container.
 On macOS or Linux with Python 3, `curl`, and `tar` installed:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/faisaljs/Moviebox-API/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Rabbani78689/Movies-Treasure-Pro/main/install.sh | sh
 moviebox
 ```
 
@@ -114,7 +114,7 @@ moviebox update
 To repair or reinstall from the current `main` branch, rerun the installer:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/faisaljs/Moviebox-API/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Rabbani78689/Movies-Treasure-Pro/main/install.sh | sh
 ```
 
 The first boot kicks off the catalog walk in the background. It takes 2–3 minutes to populate ~1700 rows and enrich the type fields. `/catalog/stats` shows progress.
@@ -653,11 +653,11 @@ Upstream `/subject/search` is relevance-ranked, not exhaustive. `Matrix` isn't i
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=faisaljs%2FMoviebox-API&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=Rabbani78689%2FMovies-Treasure-Pro&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=faisaljs/Moviebox-API&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=faisaljs/Moviebox-API&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=faisaljs/Moviebox-API&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Rabbani78689/Movies-Treasure-Pro&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Rabbani78689/Movies-Treasure-Pro&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Rabbani78689/Movies-Treasure-Pro&type=date&legend=top-left" />
  </picture>
 </a>
 
@@ -668,8 +668,8 @@ Upstream `/subject/search` is relevance-ranked, not exhaustive. `Matrix` isn't i
 **Rabbani**
 
 - GitHub: [github.com/Rabbani78689/Movies-Treasure-Pro](https://github.com/Rabbani78689/Movies-Treasure-Pro)
-- Repo: [github.com/faisaljs/Moviebox-API](https://github.com/faisaljs/Moviebox-API)
-- Issues / PRs: [github.com/faisaljs/Moviebox-API/issues](https://github.com/faisaljs/Moviebox-API/issues)
+- Repo: [github.com/Rabbani78689/Movies-Treasure-Pro](https://github.com/Rabbani78689/Movies-Treasure-Pro)
+- Issues / PRs: [github.com/Rabbani78689/Movies-Treasure-Pro/issues](https://github.com/Rabbani78689/Movies-Treasure-Pro/issues)
 
 If you use this project, a star on GitHub is appreciated.
 

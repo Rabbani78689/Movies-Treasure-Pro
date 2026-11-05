@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-REPOSITORY="faisaljs/Moviebox-API"
+REPOSITORY="Rabbani78689/Movies-Treasure-Pro"
 REF="${MOVIEBOX_REF:-main}"
 REF_TYPE="${MOVIEBOX_REF_TYPE:-branch}"
 DATA_HOME="${XDG_DATA_HOME:-$HOME/.local/share}"

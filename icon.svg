@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Movies Treasure Pro</title>
+  <desc id="desc">Gold cinematic app icon with film reel, clapboard, popcorn and text.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ffea80"/>
+      <stop offset="18%" stop-color="#ffd54a"/>
+      <stop offset="52%" stop-color="#f7b500"/>
+      <stop offset="78%" stop-color="#f0d77d"/>
+      <stop offset="100%" stop-color="#d99800"/>
+    </linearGradient>
+    <linearGradient id="deepGold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f6ca4c"/>
+      <stop offset="100%" stop-color="#d89200"/>
+    </linearGradient>
+    <linearGradient id="bgGlow" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="16" flood-color="#f7d65d" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="1200" rx="220" fill="url(#bgGlow)"/>
+  <rect x="25" y="25" width="1150" height="1150" rx="195" fill="none" stroke="url(#gold)" stroke-width="28" filter="url(#glow)"/>
+
+  <g opacity="0.2">
+    <g fill="#b3b3b3">
+      <rect x="110" y="145" width="120" height="80" rx="12"/>
+      <rect x="250" y="145" width="120" height="80" rx="12"/>
+      <rect x="390" y="145" width="120" height="80" rx="12"/>
+      <rect x="530" y="145" width="120" height="80" rx="12"/>
+      <rect x="670" y="145" width="120" height="80" rx="12"/>
+      <rect x="810" y="145" width="120" height="80" rx="12"/>
+      <rect x="950" y="145" width="120" height="80" rx="12"/>
+    </g>
+  </g>
+
+  <g transform="translate(90,110)">
+    <g transform="translate(0,120)">
+      <rect x="0" y="0" width="440" height="220" rx="70" fill="#0b0b0b" stroke="#d4a400" stroke-width="12"/>
+      <circle cx="95" cy="110" r="46" fill="#0d0d0d" stroke="#0b0b0b" stroke-width="12"/>
+      <circle cx="95" cy="110" r="18" fill="#f2c94c"/>
+      <circle cx="205" cy="110" r="46" fill="#0d0d0d" stroke="#0b0b0b" stroke-width="12"/>
+      <circle cx="205" cy="110" r="18" fill="#f2c94c"/>
+      <circle cx="315" cy="110" r="46" fill="#0d0d0d" stroke="#0b0b0b" stroke-width="12"/>
+      <circle cx="315" cy="110" r="18" fill="#f2c94c"/>
+      <circle cx="110" cy="110" r="8" fill="#0d0d0d"/>
+      <circle cx="220" cy="110" r="8" fill="#0d0d0d"/>
+      <circle cx="330" cy="110" r="8" fill="#0d0d0d"/>
+      <rect x="410" y="85" width="108" height="50" rx="10" fill="#090909"/>
+      <rect x="430" y="95" width="68" height="30" rx="6" fill="#f5d564"/>
+      <rect x="485" y="75" width="24" height="75" rx="10" fill="#141414"/>
+    </g>
+
+    <g transform="translate(430,120)">
+      <rect x="0" y="0" width="370" height="180" rx="30" fill="#101010" stroke="#d7a800" stroke-width="12"/>
+      <rect x="24" y="20" width="320" height="140" rx="18" fill="#f3f3f3"/>
+      <rect x="92" y="50" width="182" height="18" rx="8" fill="#141414"/>
+      <rect x="92" y="85" width="132" height="16" rx="8" fill="#141414"/>
+      <rect x="92" y="112" width="150" height="16" rx="8" fill="#141414"/>
+      <rect x="274" y="80" width="26" height="42" rx="12" fill="#f7d962"/>
+      <path d="M300 135 L350 80 L350 180 Z" fill="#f7d962"/>
+    </g>
+
+    <g transform="translate(150,420)">
+      <path d="M0 40 L610 40 L610 84 L0 84 Z" fill="url(#gold)"/>
+      <path d="M0 35 L610 35" stroke="#f9d34d" stroke-width="10"/>
+      <circle cx="92" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="155" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="220" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="285" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="350" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="415" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="480" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="545" cy="75" r="42" fill="#0c0c0c"/>
+      <circle cx="92" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="155" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="220" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="285" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="350" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="415" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="480" cy="75" r="12" fill="#f7d866"/>
+      <circle cx="545" cy="75" r="12" fill="#f7d866"/>
+    </g>
+
+    <g transform="translate(780,318)">
+      <path d="M70 0 L180 0 L196 134 L66 134 Z" fill="#f9d24d"/>
+      <path d="M0 80 L68 145 L72 188 L18 188 L0 80 Z" fill="#ff4b3a"/>
+      <path d="M182 80 L250 145 L246 188 L192 188 L182 80 Z" fill="#ef3a2d"/>
+      <path d="M42 120 L206 120 L206 200 L42 200 Z" fill="#f7f6f1"/>
+      <path d="M50 128 L198 128 L198 196 L50 196 Z" fill="#e7e2d5"/>
+      <path d="M96 146 L154 146 L154 196 L96 196 Z" fill="#f7d65d"/>
+      <path d="M45 133 L203 133" stroke="#f4b73e" stroke-width="10"/>
+      <path d="M66 78 L180 78 L170 120 L58 120 Z" fill="#f7d65d"/>
+      <circle cx="195" cy="190" r="12" fill="#f5d65d"/>
+      <circle cx="230" cy="170" r="15" fill="#f7d65d"/>
+      <circle cx="255" cy="205" r="16" fill="#f4ca5d"/>
+      <circle cx="42" cy="220" r="18" fill="#f2c965"/>
+      <circle cx="72" cy="250" r="14" fill="#efd76d"/>
+      <circle cx="108" cy="232" r="16" fill="#f8df82"/>
+      <circle cx="145" cy="242" r="15" fill="#f0c355"/>
+      <circle cx="178" cy="230" r="15" fill="#f8d96d"/>
+      <circle cx="207" cy="252" r="14" fill="#f3d665"/>
+      <circle cx="235" cy="235" r="13" fill="#f7db6d"/>
+      <circle cx="265" cy="250" r="15" fill="#f8dc7d"/>
+      <circle cx="230" cy="110" r="12" fill="#f5c14a"/>
+      <circle cx="18" cy="190" r="16" fill="#f7d45d"/>
+      <circle cx="12" cy="160" r="12" fill="#f3e57b"/>
+    </g>
+
+    <g transform="translate(670,260)">
+      <path d="M92 0 L172 0 L210 120 L98 120 Z" fill="#f3d457"/>
+      <path d="M116 0 L230 40 L206 134 L92 104 Z" fill="#f7df70" opacity="0.9"/>
+      <path d="M28 50 L116 18 L86 120 L0 90 Z" fill="#0b0b0b"/>
+      <path d="M245 60 L330 110 L292 150 L210 120 Z" fill="#0b0b0b"/>
+      <path d="M85 16 L220 48 L176 125 L58 96 Z" fill="#f4f4f4"/>
+      <path d="M94 74 L202 104 L180 142 L76 110 Z" fill="#141414"/>
+      <path d="M128 64 L198 80 L180 118 L112 104 Z" fill="#f5d55e"/>
+    </g>
+
+    <g transform="translate(190,680)">
+      <text x="0" y="190" font-family="Arial, Helvetica, sans-serif" font-size="192" font-weight="900" fill="#f5f5f5" letter-spacing="-10">MOVIES</text>
+      <text x="0" y="390" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="900" fill="url(#gold)" letter-spacing="-10">TREASURE</text>
+      <rect x="170" y="420" width="430" height="82" rx="22" fill="url(#gold)"/>
+      <text x="210" y="482" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="900" fill="#0d0d0d" letter-spacing="-4">PRO</text>
+    </g>
+
+    <g transform="translate(320,890)">
+      <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#f7f7f7" letter-spacing="14" opacity="0.95">WATCH</text>
+      <text x="290" y="0" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#f7f7f7" letter-spacing="14" opacity="0.95">STREAM</text>
+      <text x="630" y="0" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#f7f7f7" letter-spacing="14" opacity="0.95">ENJOY</text>
+    </g>
+  </g>
+</svg>
