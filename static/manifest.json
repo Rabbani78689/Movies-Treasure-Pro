@@ -1,0 +1,19 @@
+{
+  "name": "__APP_NAME__",
+  "short_name": "__APP_SHORT_NAME__",
+  "description": "__APP_DESCRIPTION__",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07080c",
+  "theme_color": "#ff3d71",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
